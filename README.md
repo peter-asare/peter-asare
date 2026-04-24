@@ -8,7 +8,7 @@
 ## 🧭 About Me
 
 Geospatial Analyst with a strong academic foundation in Geography and GeoInformation Science.
-I work at the intersection of spatial thinking and data analysis — building workflows in GIS
+I work at the intersection of spatial thinking and data analysis building workflows in GIS
 platforms and increasingly leveraging Python to automate and scale geospatial processes.
 Always learning, always mapping.
 
