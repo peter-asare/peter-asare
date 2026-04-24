@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Peter Boahene Asare
+#  Peter Boahene Asare
 ### Geospatial Analyst · BSc Geography & Resource Development · MSc GeoInformation Science
 
 > I turn raw spatial data into decisions — mapping, modelling, and analysing the world one layer at a time.
